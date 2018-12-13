@@ -15,7 +15,7 @@ maka kita dapat mereprentasikannya dengan gambar berikut.
 ![contoh-array](https://user-images.githubusercontent.com/44091204/49911619-a24a8e00-feb9-11e8-9267-009f99245f1a.jpg)
 
 latihan1
-
+```
 1.mulai program 
 2.int proses(int n,int max,int min,int jumlah);
 3.if(n==0){
@@ -42,13 +42,21 @@ latihan1
 5.return proses(n-1,max,min,jumlah);
 6.selesai.
 
+```
 hasil sreenshot
 
 ![untitled](https://user-images.githubusercontent.com/44091204/49913065-c197ea00-febe-11e8-8035-feec82d2894a.jpg)
 
 
-latihan2
+FLOWCHART LATIHAN1
 
+![flowchart1](https://user-images.githubusercontent.com/44091204/49915009-230f8700-fec6-11e8-8849-ec68500d0314.jpg)
+![flowchart2](https://user-images.githubusercontent.com/44091204/49915014-299dfe80-fec6-11e8-801a-afa25260a31d.jpg)
+![flowchart3](https://user-images.githubusercontent.com/44091204/49915017-2c98ef00-fec6-11e8-8f7b-7cb254390158.jpg)
+
+
+latihan2
+```
 1.mulai program 
 2.mencari modus dari data 1 sampai 10
 3.masukan jumlah data = 10
@@ -66,7 +74,36 @@ latihan2
 15.dari frekuensi tersebut dapat di tentukan modus dari data tersebut
 16.selesai
 
+```
 hasil sreenshot
 
 ![sslatihan2](https://user-images.githubusercontent.com/44091204/49913415-17b95d00-fec0-11e8-90f9-71d90913d895.jpg)
+
+latihan3
+
+mengalikan dua buah matriks dengan jumlah baris dan kolom yang sama
+
+Hasil sreenshot 
+
+![untitled](https://user-images.githubusercontent.com/44091204/49914871-8947da00-fec5-11e8-9dee-0028d866d534.jpg)
+
+latihan4
+
+```
+Matriks transpose yaitu matriks yang diperoleh dari memindahkan elemen-elemen baris menjadi elemen pada kolom atau sebaliknya.
+Transpose matriks A dilambangkan dengan AT Contoh: A3×2 =, maka AT =, perhatikan bahwa ordo dari AT adalah 2 x 3.
+Algoritma Transpose Matrik
+
+1.Masukkan ordo matrik(n)
+2.Input matrik di dalam array [0][0] sampai dengan array[n][n]
+3.ditampilkan matrik tersebut
+4.menukar matrik[i][j] menjadi matrik[j][i]
+5.ditampilkan hasil matrik tranpose
+Deklarasi : a[10][10] : int m,n,i,j : int Deskripsi : Baca (m) Baca (n) for(i=0;i<m;i++) { for(j=0;j<n;j++) { Tulis a[i][j] Transpose : for(i=0;i<m;i++) { for(j=0;j<n;j++) { Transpose a[j][i] }
+
+```
+hasil sreenshot
+
+![untitled](https://user-images.githubusercontent.com/44091204/49914958-efccf800-fec5-11e8-922b-91383893700e.jpg)
+
 
