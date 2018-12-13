@@ -51,7 +51,9 @@ hasil sreenshot
 FLOWCHART LATIHAN1
 
 ![flowchart1](https://user-images.githubusercontent.com/44091204/49915009-230f8700-fec6-11e8-8849-ec68500d0314.jpg)
+
 ![flowchart2](https://user-images.githubusercontent.com/44091204/49915014-299dfe80-fec6-11e8-801a-afa25260a31d.jpg)
+
 ![flowchart3](https://user-images.githubusercontent.com/44091204/49915017-2c98ef00-fec6-11e8-8f7b-7cb254390158.jpg)
 
 
